@@ -24,7 +24,7 @@ TransVoyage is a Django-based transport logistics application designed to simpli
 Create and activate a virtual environment:
 ```bash
 python -m venv velvet_aura_env
-source velvet_aura_env/bin/activate  # On Windows, use velvet_aura_env\Scripts\activate
+source env/bin/activate  # On Windows, use velvet_aura_env\Scripts\activate
 ```
 
 ### 3. Install Dependencies
